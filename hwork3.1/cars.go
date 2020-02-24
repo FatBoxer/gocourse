@@ -34,7 +34,7 @@ func main() {
 
 
 	fmt.Println("Автомобиль:", car1)
-	fmt.Println("Автомобиль:", car2)
+	fmt.Println(car2.series)
 	fmt.Println("Автомобиль:", car3)
 	fmt.Println("Автомобиль:", car4)
 
